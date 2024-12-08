@@ -52,5 +52,5 @@ cd sql-questions-answers</code></pre>
 
   <h2>📫 Contact</h2>
     <p>Feel free to reach out with questions, suggestions, or feedback:<br>
-    <strong>Ahmed Ayodele</strong> – <a href="ayodeleahmed219@gmail.com"></a></p>
+    <strong>Ahmed Ayodele</strong> – <a href="mailto:ayodeleahmed219@gmail.com">ayodeleahmed219@gmail.com</a></p>
 
